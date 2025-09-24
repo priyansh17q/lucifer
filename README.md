@@ -1,2 +1,2 @@
 # lucifer
-my things($$)
+my things($$)*
